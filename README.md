@@ -1,6 +1,6 @@
 # Violin VR
 VRヴァイオリンです。他のVRソフトで遊んでいるときに使えます。  
-Violin in VR on playing other vr software. This is [Download](https://github.com/rn9dfj3/violin_vr/releases) and [Movie](https://youtu.be/tB_9d1iBAqc)  
+Violin what can use on playing other VR software.. This is [Download](https://github.com/rn9dfj3/violin_vr/releases) and [Movie](https://youtu.be/tB_9d1iBAqc)  
 Thanks for [EasyOpenVROverlayForUnity](https://sabowl.sakura.ne.jp/gpsnmeajp/unity/EasyOpenVROverlayForUnity/)!!!  
 # How to Use
 Determine violin position  
